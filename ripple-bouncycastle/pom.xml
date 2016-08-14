@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<project
+    xsi:schemalocation="http://maven.apache.org/pom/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+    xmlns="http://maven.apache.org/pom/4.0.0" xmlns:xsi="http://www.w3.org/2001/xmlschema-instance">
+    <modelversion>4.0.0</modelversion>
+    <parent>
+        <artifactid>dzcoin-java</artifactid>
+        <groupid>org.dzcoinlab</groupid>
+        <version>0.0.2-snapshot</version>
+    </parent>
+
+    <artifactid>ripple-bouncycastle</artifactid>
+    <version>0.0.2-snapshot</version>
+</project>
+
+
